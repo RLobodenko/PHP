@@ -17,8 +17,8 @@ class Point3d extends Tehnika{
     
     
     public function __construct() {
-        public $shirina = 110;
-        public $dlina = 150;
+        $shirina = 110;
+       $dlina = 150;
             
         }
     public function __toString(){
